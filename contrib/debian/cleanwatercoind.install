@@ -1,0 +1,2 @@
+debian/bin/bitcoinplusd usr/bin
+src/bitcoinplusd usr/lib/bitcoinplus

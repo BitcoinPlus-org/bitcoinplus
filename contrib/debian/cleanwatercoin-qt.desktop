@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=bitcoinplus
+Comment=bitcoinplus P2P Cryptocurrency
+Comment[fr]=bitcoinplus, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=bitcoinplus, eşten eşe kriptografik sanal para birimi
+Comment[es]=bitcoinplus, una criptomoneda P2P
+Exec=/usr/bin/bitcoinplus-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bitcoinplus;
+Categories=Office;
